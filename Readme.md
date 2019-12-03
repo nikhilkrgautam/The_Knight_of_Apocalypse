@@ -1,6 +1,6 @@
  # The Knight of Apocalypse
  
-## We made this game using Babylon.js
+## Game is built using Babylon.js
 
 ### Game Link - http://theknightofapocalypse.herokuapp.com
 
