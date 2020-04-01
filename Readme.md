@@ -9,7 +9,7 @@
 ### Usage
 
 ```
-$ npm start
+$ npm install
 ```
 ```
 $ npm run dev
