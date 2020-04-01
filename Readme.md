@@ -1,14 +1,15 @@
  # The Knight of Apocalypse
  
-## Game is built using Babylon.js
+## A 3D First Person Shooter Game made using BabylonJS (a WebGL Library)
 
 ### Game Link - http://theknightofapocalypse.herokuapp.com
 
 ### Usage
 
-```sh
+```
 $ npm start
-
+```
+```
 $ npm run dev
-
+```
 
